@@ -139,22 +139,6 @@ NO → Healthy images
 
 ---
 
-## Installation
-
-Clone the repository:
-
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-
-Navigate to the project folder:
-
-cd YOUR_REPOSITORY_NAME
-
-Install dependencies:
-
-pip install -r requirements.txt
-
----
-
 ## Running the Project
 
 Run the training pipeline:
